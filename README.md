@@ -1,4 +1,6 @@
-GaussianPyramid
+Gaussian Pyramid
 ===============
 
-Adaptative Image Compression based on biological properties of the Eyes using Gaussian Pyramids
+This article presents different approaches to video compression based on the characteristics of the human visual system (SVH). It presents the different techniques for acquiring areas of interest, techniques for image processing by applying foveal filtering and finally the principles of data coding in relation to the characteristics of the SVH. The paper proposes an implementation of a multi-resolution approach by Gaussian pyramids to filter images according to the characteristics of the SVH exposed. We can see gains of about 22% when compressing images.
+
+Cet article présente différentes approches de la compression vidéo basée sur les caractéristiques du système visuel humain (SVH). On y présente les différentes techniques d’acquisition des zones d’intérêt, les techniques de traitement des images en appliquant un filtrage fovéal et finalement les principes de codage de données en relation avec les caractéristiques du SVH. L’article propose une implémentation d’une approche multi résolution par pyramides gaussiennes pour filtrer des images selon les caractéristiques du SVH exposées. Nous pourrons voir des gains de l’ordre de 22% lors de compression des images.
